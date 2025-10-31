@@ -24,7 +24,7 @@ It allows users to create, view, update, delete, and filter event bookings.
 
 ---
 ## Installation Commands
-1. npm install express,mongoose
+1. npm install express mongoose
 2. npm init -y
 3. npm i dotenv
 ----
